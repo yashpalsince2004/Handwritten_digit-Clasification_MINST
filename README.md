@@ -143,4 +143,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Yash**  
 🎓 Computer Science (AI/ML) Student  
-🌐 [LinkedIn](https://linkedin.com/in/your-profile) | 🧠 Passionate about AI & Deep Learning
+🌐 [LinkedIn](https://www.linkedin.com/in/yash-pal-since2004) | 🧠 Passionate about AI & Deep Learning
