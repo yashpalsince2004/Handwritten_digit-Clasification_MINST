@@ -9,10 +9,15 @@ A beginner-friendly deep learning project built with TensorFlow and Keras that d
 This project performs the following tasks:
 
 ✅ Loads and preprocesses the MNIST dataset of handwritten digits.
+
 ✅ Defines a simple feed-forward neural network with one hidden layer.
+
 ✅ Trains the model on the training set.
+
 ✅ Evaluates the trained model on the test set.
+
 ✅ Makes predictions and visualizes one sample prediction.
+
 
 The goal is to introduce beginners to deep learning concepts with an intuitive example.
 ---
