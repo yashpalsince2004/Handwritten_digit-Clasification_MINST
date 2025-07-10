@@ -152,6 +152,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Yash**  
+**Yash Pal**  
 🎓 Computer Science (AI/ML) Student  
 🌐 [LinkedIn](https://www.linkedin.com/in/yash-pal-since2004) | 🧠 Passionate about AI & Deep Learning
