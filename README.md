@@ -5,10 +5,16 @@ A beginner-friendly deep learning project built with TensorFlow and Keras that d
 
 ---
 
-## 📁 Project Overview
+## 📄 Project Overview
+This project performs the following tasks:
 
-This project is designed to classify grayscale images of handwritten digits from the MNIST dataset using a basic **feedforward neural network (FNN)**. The model uses TensorFlow and Keras for building, training, and evaluating the neural network, and visualizes the results using `matplotlib`.
+✅ Loads and preprocesses the MNIST dataset of handwritten digits.
+✅ Defines a simple feed-forward neural network with one hidden layer.
+✅ Trains the model on the training set.
+✅ Evaluates the trained model on the test set.
+✅ Makes predictions and visualizes one sample prediction.
 
+The goal is to introduce beginners to deep learning concepts with an intuitive example.
 ---
 
 ## 📌 Key Features
