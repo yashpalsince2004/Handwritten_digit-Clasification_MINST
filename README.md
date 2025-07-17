@@ -1,7 +1,7 @@
 
 # 🧠 Handwritten Digit Classification using MNIST Dataset
 
-A beginner-friendly deep learning project built with TensorFlow and Keras that demonstrates how to classify handwritten digits (0–9) using a simple neural network trained on the MNIST dataset.
+A beginner-friendly deep learning project built with TensorFlow and Keras that demonstrates how to classify handwritten digits (0-9) using a simple neural network trained on the MNIST dataset.
 
 ---
 
